@@ -43,5 +43,5 @@
 ##  **More Info. about PJ**
 ###  **👇Clik the LOGO👇**
 <br>
-<a src="https://seo0h.notion.site/Banible-IOT-3e71e7feee2e4c03a77edda62012accf">
+<a href="https://seo0h.notion.site/Banible-IOT-3e71e7feee2e4c03a77edda62012accf">
 <img src="https://img.shields.io/badge/Notion-PJ_Summary-EEEEEE?style=for-the-badge&logo=Notion&logoColor=white"/></a>
